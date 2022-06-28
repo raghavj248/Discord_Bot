@@ -1,2 +1,2 @@
 # Discord_Bot
-A live dicord bot using python
+Discord bot using Python and host it in the cloud using Repl.it. 
